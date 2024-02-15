@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest a specific idea, feature, or improvement you'd like me to add to the
   plugin.
 title: ''
-labels: ''
+labels: feature request
 assignees: ''
 
 ---
