@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 **Version Information:**
  - Minecraft Version: 
  - Server Software (ex. Paper, Purpur, etc.): 
- - Plugin Version: 
+ - Plugin Version (ex. 2.1.5-paper): 
 
 **Additional context**
 Add any other context about the problem here.
