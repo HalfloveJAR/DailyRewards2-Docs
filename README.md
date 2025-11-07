@@ -2,6 +2,7 @@
 A Minecraft plugin for Folia, Paper, and Spigot servers.
 
 Purchase a copy here: https://www.spigotmc.org/resources/daily-rewards-2.115112/
+Or on BuiltByBuilt: https://builtbybit.com/resources/daily-rewards-2.39834/
 ## Documentation, Suggestions, and Bug Tracker
 
 The Official Daily Rewards 2 Documentation. Read the docs, report bugs, or suggest features.
